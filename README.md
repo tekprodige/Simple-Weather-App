@@ -5,4 +5,4 @@ This project is a sleek and interactive weather application designed to showcase
 
 ## Demo Link
 ------------------------------------------
-* 🖥️  Play with demo at [Click Me]([http://m](https://main.dbfq43v2cryag.amplifyapp.com/))
+* 🖥️  Play with demo at [Click Me](https://main.dbfq43v2cryag.amplifyapp.com/)
